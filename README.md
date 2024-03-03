@@ -1,6 +1,6 @@
 # Cryptoswiftapp
 
-## Introducing Cryptoswiftapp: Pioneering the Future of Cryptocurrency Transactions
+## Pioneering the Future of Cryptocurrency Transactions
 
 ### Context:
 
